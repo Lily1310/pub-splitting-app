@@ -1,1 +1,3 @@
 # pub-splitting-app
+
+THIS APP IS BUILT WITH 90% CHATGPT AND 10% BY ME.
